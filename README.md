@@ -2,7 +2,7 @@
  
 # PEDRINHO
 
-- Estou estudando no Alura
+- Estou estudando no [Alura] {https://.com.br}
 - Estou me desenvolvendo na liguagem JavaScript
 - Utilizo esse espaco para minha organizacaoe compartilhamento dos meus projetos desenvolvidos
 
